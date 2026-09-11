@@ -116,13 +116,36 @@ Measures the actual number of vehicles sold.
 
 Represents the planned sales volume.
 
-### Achievement %
+----
 
-```text
-Achievement % = Actual Unit / Target Unit
+## 📊 Achievement & Variance
 
-Variance Unit = Actual Unit - Target Unit
+**Achievement %**
+
+Achievement % digunakan untuk mengukur tingkat pencapaian actual sales terhadap target.
+
+**Formula:**
+
+> Achievement % = Actual Unit ÷ Target Unit × 100%
+
+**Variance Unit**
+
+Variance menunjukkan selisih antara actual sales dan target.
+
+> Variance Unit = Actual Unit − Target Unit
+
+**Interpretasi:**
+
+- 🟢 **Achievement ≥ 100%** → Target tercapai atau terlampaui
+- 🟡 **Achievement 90%–99%** → Mendekati target
+- 🔴 **Achievement < 90%** → Perlu perhatian dan improvement
+
+---
 
 ## 👨‍💻 Author
 
-Djusran
+**Djusran**
+
+Data Analyst | Sales & Automotive Business
+
+Project: **Automotive Sales Performance Dashboard**
