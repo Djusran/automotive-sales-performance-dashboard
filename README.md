@@ -142,6 +142,12 @@ Variance menunjukkan selisih antara actual sales dan target.
 
 ---
 
+## 📊 Dashboard
+
+![Dashboard Kinerja Penjualan](Asp.JPG)
+
+---
+
 ## 👨‍💻 Author
 
 **Djusran**
