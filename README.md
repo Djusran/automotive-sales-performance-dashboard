@@ -246,6 +246,6 @@ automotive-sales/
 
 **Djusran**
 
-Data Analyst | Sales & Automotive Business
+Aspiring Data Analyst | Sales & Automotive Business Background
 
 Project: **Automotive Sales Performance Dashboard**
