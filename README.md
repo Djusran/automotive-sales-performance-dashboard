@@ -240,6 +240,8 @@ automotive-sales/
     └── automotive-sales-dashboard.pbix
 ```
 
+---
+
 ## 👨‍💻 Author
 
 **Djusran**
