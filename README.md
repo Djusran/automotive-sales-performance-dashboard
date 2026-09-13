@@ -237,8 +237,7 @@ automotive-sales/
 │   └── salesman-performance.png
 │
 └── powerbi/
-    └── automotive-sales-dashboard.pbix
-```text
+    └── automotive-sales-dashboard.pbix ```
 
 ---
 
