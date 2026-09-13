@@ -2,14 +2,13 @@
 
 ## 📊 Project Overview
 
-This project analyzes automotive sales performance using Microsoft Power BI.
+This project analyzes automotive sales performance using Excel and Microsoft Power BI.
 
-The dashboard was designed to help sales management monitor revenue, gross profit,
-sales volume, target achievement, regional performance, and individual salesman
-performance.
+The dashboard was provides insights into sales revenue, unit sales, target achievement,
+salesman performance, regional performance, and monthly sales trends.
 
-The project demonstrates how raw sales data can be transformed into an interactive
-business intelligence dashboard and converted into actionable business insights.
+The objective of this project is to support management in monitoring
+sales performance and identifying areas that require improvement.
 
 ---
 
@@ -55,7 +54,7 @@ The main objectives of this project are:
 - Microsoft Excel
 - Data Modeling
 - Data Visualization
-- Business Intelligence
+- Business Analysis
 
 ---
 
@@ -142,10 +141,103 @@ Variance menunjukkan selisih antara actual sales dan target.
 
 ---
 
-## 📊 Dashboard
+## 📈 Dashboard Features
+
+### Executive Sales Overview
+
+The dashboard provides:
+
+- Total Revenue
+- Gross Profit
+- Total Unit
+- Achievement %
+- Variance Unit
+- Monthly Revenue Trend
+- Target vs Actual Unit
+- Sales Performance by Region
+- Sales Performance by Salesman
+- Top 10 Salesman by Revenue
+
+### Salesman Performance Analysis
+
+This page provides:
+
+- Revenue by Salesman
+- Target vs Actual Unit
+- Achievement % by Salesman
+- Total Unit by Salesman
+- Salesman Performance Matrix
+- Interactive Salesman Analysis
+
+---
+
+## 📊 Dashboard Preview
+
+### Executive Sales Overview
 
 ![Dashboard Kinerja Penjualan](Asp.JPG)
+
+### Salesman Performance Analysis
+
 ![Dashboard Kinerja Penjualan](Asp2.JPG)
+
+## 💡 Business Insights
+
+Based on the dashboard analysis:
+
+1. Overall sales achievement is above the annual target.
+2. Several salesmen consistently outperform their individual targets.
+3. Some salesmen show achievement below target and require closer monitoring.
+4. Sales performance varies between regions.
+5. Monthly sales performance fluctuates and should be monitored to identify seasonal patterns.
+6. High-performing salesmen can be used as benchmarks for improving team performance.
+
+---
+
+## 🎯 Business Recommendations
+
+### 1. Improve Low-Performing Salesmen
+
+Conduct regular coaching, field accompaniment, and performance monitoring
+for salesmen whose achievement remains below target.
+
+### 2. Replicate High Performer Strategies
+
+Identify the sales activities and customer approaches used by top-performing
+salesmen and share them with the rest of the team.
+
+### 3. Strengthen Regional Strategy
+
+Allocate sales resources based on regional performance and market potential.
+
+### 4. Improve Customer Database
+
+Strengthen customer database management and follow-up activities to increase
+conversion opportunities.
+
+### 5. Monitor Monthly Performance
+
+Use monthly sales trends to identify periods of declining performance and
+prepare corrective actions earlier.
+
+---
+
+## 📂 Project Structure
+
+```text
+automotive-sales/
+│
+├── README.md
+│
+├── data/
+│   └── automotive_sales_data.xlsx
+│
+├── dashboard/
+│   ├── executive-sales-overview.png
+│   └── salesman-performance.png
+│
+└── powerbi/
+    └── automotive-sales-dashboard.pbix
 
 ---
 
