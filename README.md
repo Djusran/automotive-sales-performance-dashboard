@@ -249,3 +249,11 @@ automotive-sales/
 Aspiring Data Analyst | Sales & Automotive Business Background
 
 Project: **Automotive Sales Performance Dashboard**
+
+---
+
+## 📬 Contact
+
+LinkedIn :[https://www.linkedin.com/in/djusran-hamid-93815497]
+GitHub : [@Djusran]
+E-mail : [djusran@gmail.com]
