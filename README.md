@@ -238,9 +238,7 @@ automotive-sales/
 │
 └── powerbi/
     └── automotive-sales-dashboard.pbix
-'''
-
----
+```
 
 ## 👨‍💻 Author
 
