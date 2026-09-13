@@ -236,8 +236,10 @@ automotive-sales/
 │   ├── executive-sales-overview.png
 │   └── salesman-performance.png
 │
+```text
 └── powerbi/
-    └── automotive-sales-dashboard.pbix ```
+    └── automotive-sales-dashboard.pbix
+```markdown
 
 ---
 
